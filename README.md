@@ -1,6 +1,6 @@
 # Prasanna's Data Analytics Portfolio
 
-[SQL](#technical-skills) | [Microsoft Power BI](#technical-skills) | [Python](#technical-skills) | [Microsoft Excel](#technical-skills) | [Data Analytics](#technical-skills) | [Business Intelligence](#technical-skills)
+[SQL](#sql) | [Microsoft Power BI](#microsoft-power-bi) | [Python](#python) | [Microsoft Excel](#microsoft-excel) | [Data Analytics](#data-analytics) | [Business Intelligence](#business-intelligence)
 Welcome to my Data Analytics Portfolio! This repository showcases my hands-on projects demonstrating data analysis, data preparation, exploratory data analysis, dashboard development, business intelligence, and data-driven decision-making.
 
 I have worked on projects using SQL, Power BI, Python, and Excel to explore datasets, identify patterns, analyze business performance, and communicate insights through meaningful visualizations and reports.
@@ -50,7 +50,7 @@ Each project demonstrates a different stage of the data analytics process, from 
 
 # 3. Technical Skills
 
-### SQL
+# SQL
 - SELECT, WHERE, ORDER BY
 - GROUP BY and HAVING
 - Aggregate Functions
@@ -60,7 +60,7 @@ Each project demonstrates a different stage of the data analytics process, from 
 - Data Aggregation
 - Business-Oriented Queries
 
-### Microsoft Power BI
+# Microsoft Power BI
 - Data Import
 - Power Query
 - Data Transformation
@@ -71,7 +71,7 @@ Each project demonstrates a different stage of the data analytics process, from 
 - Data Visualization
 - Slicers and Filters
 
-### Python
+# Python
 - Python Fundamentals
 - NumPy
 - Pandas
@@ -81,7 +81,7 @@ Each project demonstrates a different stage of the data analytics process, from 
 - Exploratory Data Analysis
 - Data Visualization
 
-### Microsoft Excel
+# Microsoft Excel
 - Data Cleaning and Formatting
 - Sorting and Filtering
 - Formulas and Functions
@@ -94,23 +94,23 @@ Each project demonstrates a different stage of the data analytics process, from 
 
 # 4. Projects Overview
 
-## Project 1: Marketing Analysis Dashboard
+# Project 1: Marketing Analysis Dashboard
 
 **Technologies:** SQL, Microsoft Power BI
 
-### About the Project
+# About the Project
 
 This project focuses on analyzing marketing-related data using SQL and Microsoft Power BI.
 
 The objective is to examine marketing performance, explore campaign-related information, identify patterns in the available data, and present business insights through an interactive Power BI dashboard.
 
-### Problem Statement
+# Problem Statement
 
 Marketing activities generate large amounts of data. Understanding campaign performance requires analyzing the available information rather than relying only on individual records.
 
 This project uses SQL for data analysis and Power BI for visualization to support marketing performance evaluation and business decision-making.
 
-### Business Objectives
+# Business Objectives
 
 - Understand marketing campaign performance.
 - Explore patterns and trends in marketing data.
@@ -118,7 +118,7 @@ This project uses SQL for data analysis and Power BI for visualization to suppor
 - Compare performance across relevant categories.
 - Present important findings through interactive visualizations.
 
-### Methodology
+# Methodology
 
 **1. Data Understanding**
 
@@ -147,7 +147,7 @@ This project uses SQL for data analysis and Power BI for visualization to suppor
 - Identified patterns in campaign-related information.
 - Used dashboard visualizations to communicate observations.
 
-### Business Applications
+# Business Applications
 
 - Marketing performance monitoring.
 - Campaign comparison.
@@ -157,23 +157,23 @@ This project uses SQL for data analysis and Power BI for visualization to suppor
 
 ---
 
-## Project 2: Movie Analysis
+# Project 2: Movie Analysis
 
 **Technology:** Python, Google Colab
 
-### About the Project
+# About the Project
 
 The Movie Analysis project focuses on exploring movie-related datasets using Python.
 
 The objective is to understand the available movie information, perform exploratory data analysis, identify patterns, and communicate findings through visualizations.
 
-### Problem Statement
+# Problem Statement
 
 Movie datasets contain different attributes that can be explored to understand patterns and relationships within the movie industry.
 
 Analyzing these attributes helps transform raw movie information into meaningful observations.
 
-### Project Objectives
+# Project Objectives
 
 - Understand the movie dataset.
 - Explore the available columns and records.
@@ -182,7 +182,7 @@ Analyzing these attributes helps transform raw movie information into meaningful
 - Conduct exploratory data analysis.
 - Create visualizations to communicate patterns.
 
-### Methodology
+# Methodology
 
 **1. Data Loading**
 
@@ -209,7 +209,7 @@ Analyzing these attributes helps transform raw movie information into meaningful
 - Created visual representations of the analyzed data.
 - Presented observations through charts and graphs.
 
-### Business Applications
+# Business Applications
 
 - Understanding movie data patterns.
 - Exploring relationships between movie attributes.
@@ -218,23 +218,23 @@ Analyzing these attributes helps transform raw movie information into meaningful
 
 ---
 
-## Project 3: Weather Analysis
+# Project 3: Weather Analysis
 
 **Technology:** Python, Google Colab
 
-### About the Project
+# About the Project
 
 The Weather Analysis project involves analyzing weather-related data using Python.
 
 The project focuses on exploring weather information, understanding patterns in the available dataset, and presenting observations through data analysis and visualization.
 
-### Problem Statement
+# Problem Statement
 
 Weather datasets contain information that can be analyzed to understand variations and patterns over time.
 
 Analyzing weather-related attributes helps identify trends and communicate observations in a structured way.
 
-### Project Objectives
+# Project Objectives
 
 - Explore weather-related datasets.
 - Understand the available variables.
@@ -243,7 +243,7 @@ Analyzing weather-related attributes helps identify trends and communicate obser
 - Identify trends and relationships.
 - Create meaningful visualizations.
 
-### Methodology
+# Methodology
 
 **1. Data Import**
 
@@ -270,7 +270,7 @@ Analyzing weather-related attributes helps identify trends and communicate obser
 - Created charts to communicate analytical observations.
 - Presented weather-related patterns visually.
 
-### Business Applications
+# Business Applications
 
 - Weather pattern exploration.
 - Trend identification.
@@ -279,23 +279,23 @@ Analyzing weather-related attributes helps identify trends and communicate obser
 
 ---
 
-## Project 4: E-commerce Sales Analysis
+# Project 4: E-commerce Sales Analysis
 
 **Technology:** Microsoft Excel
 
-### About the Project
+# About the Project
 
 The E-commerce Sales Analysis project focuses on examining sales-related data using Microsoft Excel.
 
 The objective is to explore sales information, organize and analyze records, understand business performance, and generate useful insights from the available dataset.
 
-### Problem Statement
+# Problem Statement
 
 E-commerce businesses generate sales data that can be used to understand business performance and identify patterns.
 
 Analyzing sales information helps businesses evaluate performance and make informed decisions.
 
-### Project Objectives
+# Project Objectives
 
 - Understand the e-commerce sales dataset.
 - Organize and prepare sales records.
@@ -304,7 +304,7 @@ Analyzing sales information helps businesses evaluate performance and make infor
 - Identify patterns in the available data.
 - Present information through spreadsheet-based reporting.
 
-### Methodology
+# Methodology
 
 **1. Dataset Understanding**
 
@@ -332,7 +332,7 @@ Analyzing sales information helps businesses evaluate performance and make infor
 - Used charts and visualizations where applicable.
 - Presented sales information in a structured format.
 
-### Business Applications
+# Business Applications
 
 - Sales performance monitoring.
 - E-commerce business reporting.
@@ -397,7 +397,7 @@ I aim to continuously improve my knowledge of data analytics, business intellige
 
 ---
 
-### Thank You for Visiting My Portfolio!
+# Thank You for Visiting My Portfolio!
 
 I appreciate your time in exploring my projects.
 
