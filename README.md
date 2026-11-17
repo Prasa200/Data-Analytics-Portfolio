@@ -7,8 +7,6 @@ I have worked on projects using SQL, Power BI, Python, and Excel to explore data
 
 ---
 
-# 📑 Table of Contents
-
 ## 📑 Table of Contents
 
 - [About Me](#about-me)
