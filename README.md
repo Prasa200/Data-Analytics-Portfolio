@@ -1,7 +1,6 @@
 # Prasanna's Data Analytics Portfolio
 
-**SQL | Microsoft Power BI | Python | Microsoft Excel | Data Analytics | Business Intelligence**
-
+[SQL](#technical-skills) | [Microsoft Power BI](#technical-skills) | [Python](#technical-skills) | [Microsoft Excel](#technical-skills) | [Data Analytics](#technical-skills) | [Business Intelligence](#technical-skills)
 Welcome to my Data Analytics Portfolio! This repository showcases my hands-on projects demonstrating data analysis, data preparation, exploratory data analysis, dashboard development, business intelligence, and data-driven decision-making.
 
 I have worked on projects using SQL, Power BI, Python, and Excel to explore datasets, identify patterns, analyze business performance, and communicate insights through meaningful visualizations and reports.
@@ -10,19 +9,21 @@ I have worked on projects using SQL, Power BI, Python, and Excel to explore data
 
 # 📑 Table of Contents
 
-1. About Me
-2. About This Portfolio
-3. Technical Skills
-4. Projects Overview
-5. Project 1 – Marketing Analysis Dashboard (SQL & Power BI)
-6. Project 2 – Movie Analysis (Python)
-7. Project 3 – Weather Analysis (Python)
-8. Project 4 – E-commerce Sales Analysis (Excel)
-9. Tools and Technologies
-10. Skills Demonstrated
-11. Education
-12. Career Objective
-13. GitHub Profile
+## 📑 Table of Contents
+
+- [About Me](#about-me)
+- [About This Portfolio](#about-this-portfolio)
+- [Technical Skills](#technical-skills)
+- [Projects Overview](#projects-overview)
+- [Project 1 – Marketing Analysis Dashboard (SQL & Power BI)](#project-1-marketing-analysis-dashboard-sql--power-bi)
+- [Project 2 – Movie Analysis (Python)](#project-2-movie-analysis-python)
+- [Project 3 – Weather Analysis (Python)](#project-3-weather-analysis-python)
+- [Project 4 – E-commerce Sales Analysis (Excel)](#project-4-e-commerce-sales-analysis-excel)
+- [Tools and Technologies](#tools-and-technologies)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Education](#education)
+- [Career Objective](#career-objective)
+- [GitHub Profile](#github-profile)
 
 ---
 
