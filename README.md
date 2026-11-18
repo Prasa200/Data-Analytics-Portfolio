@@ -9,9 +9,6 @@ I have worked on projects using SQL, Power BI, Python, and Excel to explore data
 
 ## 📑 Table of Contents
 
-
-## 📑 Table of Contents
-
 - [About Me](#1-about-me)
 - [About This Portfolio](#2-about-this-portfolio)
 - [Technical Skills](#3-technical-skills)
