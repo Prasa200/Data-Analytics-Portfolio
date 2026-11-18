@@ -9,19 +9,23 @@ I have worked on projects using SQL, Power BI, Python, and Excel to explore data
 
 ## 📑 Table of Contents
 
-- [About Me](#about-me)
-- [About This Portfolio](#about-this-portfolio)
-- [Technical Skills](#technical-skills)
-- [Projects Overview](#projects-overview)
-- [Project 1 – Marketing Analysis Dashboard (SQL & Power BI)](#project-1-marketing-analysis-dashboard-sql--power-bi)
-- [Project 2 – Movie Analysis (Python)](#project-2-movie-analysis-python)
-- [Project 3 – Weather Analysis (Python)](#project-3-weather-analysis-python)
-- [Project 4 – E-commerce Sales Analysis (Excel)](#project-4-e-commerce-sales-analysis-excel)
-- [Tools and Technologies](#tools-and-technologies)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Education](#education)
-- [Career Objective](#career-objective)
-- [GitHub Profile](#github-profile)
+
+## 📑 Table of Contents
+
+- [About Me](#1-about-me)
+- [About This Portfolio](#2-about-this-portfolio)
+- [Technical Skills](#3-technical-skills)
+- [Projects Overview](#4-projects-overview)
+- [Project 1 – Marketing Analysis Dashboard](#project-1-marketing-analysis-dashboard)
+- [Project 2 – Movie Analysis](#project-2-movie-analysis)
+- [Project 3 – Weather Analysis](#project-3-weather-analysis)
+- [Project 4 – E-commerce Sales Analysis](#project-4-e-commerce-sales-analysis)
+- [Tools and Technologies](#5-tools-and-technologies)
+- [Skills Demonstrated](#6-skills-demonstrated)
+- [Education](#7-education)
+- [Career Objective](#8-career-objective)
+- [GitHub Profile](#9-github-profile)
+
 
 ---
 
